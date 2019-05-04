@@ -20,8 +20,7 @@
     Merging the external datasets
     Saving the processed file
 
-### If one or more steps are not applicable to your
-dataset, add a comment justifying
+### If one or more steps are not applicable to your dataset, add a comment justifying
 
 ### Exploratory Data Analysis
 #### Load the clean dataset
