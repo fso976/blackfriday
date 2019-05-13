@@ -26,7 +26,7 @@ Our demographic data analysis for the Black Friday dataset considers the followi
 
 We will analyze each feature separately according to Figure 1 below:
 
-![Exploratory_Demograph_Analysis](./figures/Exploratory_Demograph_Analysis.png)
+![Exploratory_Demographic_Analysis](./figures/Exploratory_Demographic_Analysis.png)
 
 As demonstrated in the first count plot regarding Gender x Purchases, more than 75% of the transactions were made by men. While women were responsible for less than 25%.
 The second count plot (regarding Age x Purchases) shows that customers between 26 and 35 years of age are the primary buyers of the retail store (40% of the transactions), while teenagers, up to 17 years of age, make less purchases (3% of the transactions).
@@ -42,6 +42,6 @@ As there is no information about the types of occupations and cities, we could o
 
 Exploring our dataset information, we plot the chart in Figure 2 as follows:
 
-![Exploratory_Demograph_Analysis](./figures/Exploratory_Demograph_Analysis.png)
+![Exploratory_Business_Analysis](./figures/Exploratory_Business_Analysis.png)
 
 This figure accounts for the occupation of our customers across different cities in terms of purchase. Let's first address the spike for Occupation 8 in City A, it showed in the earlier count plot that occupation 8 made up only a tiny number of purchases, the vertical std bar helps explain this spike, probably by a few large transactions. However, we can see that apart from occupations 8 and 9, the graph shows that purchases are highest in City C.  Therefore, we can make assumptions about the purchasing power of customers in City C. Answering the question, City C and the clients in occupations 5, 11 and 17 would be our potential targets because they have bought more than 10,000 dollars in the store at this location accordingly to our diagnostic analysis of the dataset.
