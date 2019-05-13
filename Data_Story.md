@@ -18,7 +18,8 @@ A retail store wants to better know customer purchase behavior regarding differe
 
 The distribution of purchase amounts for respective age groups across cities A, B and C for previous years can be seen in Figure 1. In general, men in the 26-35 age group are largest in number. Men in this group are also recorded as greatest in spending amount across all three cities, where the company has stores. Women, on the other hand, peak in number and purchase amount within the 46-50 age group except in City A where the majority of purchases were clearly made by the 0-17 age group.
 
-![Data_Story_General.png](./figures/Data_Story_General.png.png)
+![Data_Story_General](./figures/Data_Story_General.png)
+
 Figure 1 - The distribution of purchase amounts by age and gender
 
 What if the retailer wants to increase sales for a specific group of customers based on their gender, age or city?
@@ -36,6 +37,7 @@ For the targeted retail store, young single males could be the driving force on 
 On the one hand, the dataset informs, as can be seen in Figure 2, that the majority of Black Friday customers are male, in fact, about 3 times more. On the other hand, including other factors (Marital status and high purchase amount) could be used to test the hypothesis on insight #2.
 
 ![Data_Story_Specific](./figures/Data_Story_Specific.png)
+
 Figure 2 - The distribution of purchase amounts by age, gender and marital status
 
 ### Solution & Next Steps
